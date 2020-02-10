@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<laundry_room>
+	<laundry_room_name>WATTS</laundry_room_name>	<campus_name>DAVIDSON COLLEGE</campus_name>	<appliances>
+		<appliance>
+			<appliance_desc_key>129874</appliance_desc_key>
+			<lrm_status>Online</lrm_status>
+			<appliance_type>WASHER</appliance_type>
+			<status>Available</status>
+			<out_of_service>0</out_of_service>
+			<label>02</label>
+			<avg_cycle_time>37</avg_cycle_time>
+			<time_remaining>cycle ended 23 minutes ago</time_remaining>
+		</appliance>
+		<appliance>
+			<appliance_desc_key>129876</appliance_desc_key>
+			<lrm_status>Online</lrm_status>
+			<appliance_type>WASHER</appliance_type>
+			<status>In Use</status>
+			<out_of_service>0</out_of_service>
+			<label>04</label>
+			<avg_cycle_time>43</avg_cycle_time>
+			<time_remaining>cycle has ended - door still closed</time_remaining>
+		</appliance>
+		<appliance>
+			<appliance_desc_key>129878</appliance_desc_key>
+			<lrm_status>Online</lrm_status>
+			<appliance_type>WASHER</appliance_type>
+			<status>Available</status>
+			<out_of_service>0</out_of_service>
+			<label>06</label>
+			<avg_cycle_time>37</avg_cycle_time>
+			<time_remaining>available</time_remaining>
+		</appliance>
+		<appliance>
+			<appliance_desc_key>129880</appliance_desc_key>
+			<lrm_status>Online</lrm_status>
+			<appliance_type>WASHER</appliance_type>
+			<status>In Use</status>
+			<out_of_service>0</out_of_service>
+			<label>08</label>
+			<avg_cycle_time>38</avg_cycle_time>
+			<time_remaining>cycle has ended - door still closed</time_remaining>
+		</appliance>
+		<appliance>
+			<appliance_desc_key>129873</appliance_desc_key>
+			<lrm_status>Online</lrm_status>
+			<appliance_type>DRYER</appliance_type>
+			<status>In Use</status>
+			<out_of_service>0</out_of_service>
+			<label>01</label>
+			<avg_cycle_time>61</avg_cycle_time>
+			<time_remaining>est. time remaining 23 min</time_remaining>
+		</appliance>
+		<appliance>
+			<appliance_desc_key>129875</appliance_desc_key>
+			<lrm_status>Online</lrm_status>
+			<appliance_type>DRYER</appliance_type>
+			<status>Available</status>
+			<out_of_service>0</out_of_service>
+			<label>03</label>
+			<avg_cycle_time>62</avg_cycle_time>
+			<time_remaining>cycle ended 28 minutes ago</time_remaining>
+		</appliance>
+		<appliance>
+			<appliance_desc_key>129877</appliance_desc_key>
+			<lrm_status>Online</lrm_status>
+			<appliance_type>DRYER</appliance_type>
+			<status>Available</status>
+			<out_of_service>0</out_of_service>
+			<label>05</label>
+			<avg_cycle_time>72</avg_cycle_time>
+			<time_remaining>available</time_remaining>
+		</appliance>
+		<appliance>
+			<appliance_desc_key>129879</appliance_desc_key>
+			<lrm_status>Online</lrm_status>
+			<appliance_type>DRYER</appliance_type>
+			<status>Available</status>
+			<out_of_service>0</out_of_service>
+			<label>07</label>
+			<avg_cycle_time>70</avg_cycle_time>
+			<time_remaining>available</time_remaining>
+		</appliance>
+	</appliances>
+</laundry_room>

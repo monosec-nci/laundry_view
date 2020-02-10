@@ -1,0 +1,10 @@
+school_desc_key: "115"
+school_name: "DAVIDSON COLLEGE"
+online: 14
+total: 15
+school_name_lower: "davidson college"
+
+school_name: "DAVIDSON COLLEGE"
+campus_name: "DAVIDSON COLLEGE"
+laundry_room_location: "186779"
+laundry_room_name: "WATTS"
